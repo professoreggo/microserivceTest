@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "WKcEudQM5H1ZJ7GwomMKwoz7wCRQj93pVaEo+Wh+2r0=",
+  "Source": "event_logger",
+  "BasePath": "_content/event_logger",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
